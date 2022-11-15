@@ -4,3 +4,7 @@
 
 <p>I implemented Neural Network from scratch to gain a knowledge about its details, classsifying hand-writren digits(MNIST) and wanted to optimize its hyper parameters using <b>Getnetic algorithm</b> from scrath too
 I wiil explain details of a notebook soon.</p>
+
+Coning Soon:
+
+![Untitled](https://user-images.githubusercontent.com/91970695/201802759-b227165d-6564-4f41-acbb-a23e9a3f133c.png)
